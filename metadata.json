@@ -1,0 +1,6 @@
+{
+  "name": "ToolNest – Free Online Tools",
+  "description": "Free browser-based online tools for text editing, student GPA and attendance calculations, YouTube creators, everyday math, and fast image conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Set VITE_SITE_URL=https://yourdomain.com before running npm run build to enable indexing and generate sitemap.xml.
